@@ -1348,7 +1348,7 @@ if (reversed == null) { reversed = false; }
 
 	// sc5_bg
 	this.instance_3 = new lib.sc5bg();
-	this.instance_3.setTransform(-300,-250);
+	this.instance_3.setTransform(-346,-271,1.0774,1.0774);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance_3).wait(88));
 
@@ -1901,7 +1901,7 @@ if (reversed == null) { reversed = false; }
 
 	// an_man
 	this.instance_2 = new lib.an_man("synched",0,false);
-	this.instance_2.setTransform(168.9,-85.05,1.404,1.404,0,0,0,75,158.9);
+	this.instance_2.setTransform(169.05,-74.85,1.3594,1.3594,0,0,0,75.1,158.8);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance_2).wait(91).to({startPosition:91},0).to({_off:true},1).wait(15));
 
