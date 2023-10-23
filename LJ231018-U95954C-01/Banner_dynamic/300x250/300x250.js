@@ -2286,7 +2286,7 @@ if (reversed == null) { reversed = false; }
 	this.instance_4 = new lib.an_car1("synched",0,false);
 	this.instance_4.setTransform(378.1,259.75,0.3549,0.3549,0,0,0,261.4,171.5);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_4).to({startPosition:49},77).to({alpha:0},8).to({_off:true},1).wait(145).to({_off:false,regX:581.8,regY:265.5,scaleX:0.4601,scaleY:0.4601,x:446.35,y:286.4,startPosition:0},0).to({alpha:1,startPosition:6},6).to({startPosition:49},79).to({regY:265.7,scaleX:0.325,scaleY:0.325,x:472,y:274.9},8).to({_off:true},86).wait(4));
+	this.timeline.addTween(cjs.Tween.get(this.instance_4).to({startPosition:49},77).to({alpha:0},8).to({_off:true},1).wait(145).to({_off:false,regX:581.8,regY:265.5,scaleX:0.4601,scaleY:0.4601,x:446.35,y:286.4,startPosition:0},0).to({alpha:1,startPosition:6},6).to({startPosition:49},79).to({regY:265.7,scaleX:0.325,scaleY:0.325,x:472,y:274.9},8).wait(90));
 
 	// scc3
 	this.instance_5 = new lib.scc3("synched",0,false);
