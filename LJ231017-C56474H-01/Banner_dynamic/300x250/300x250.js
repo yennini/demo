@@ -2584,96 +2584,90 @@ if (reversed == null) { reversed = false; }
 
 	// sb_star
 	this.instance = new lib.sb_star("synched",0);
-	this.instance.setTransform(407.35,198.6,0.1613,0.1613,0,0,0,11.8,11.8);
+	this.instance.setTransform(497.65,132.3,0.1613,0.1613,0,0,0,11.8,11.8);
 
 	this.instance_1 = new lib.sb_star("synched",0);
-	this.instance_1.setTransform(399.95,219.45,0.1613,0.1613,0,0,0,11.8,11.8);
+	this.instance_1.setTransform(407.35,198.6,0.1613,0.1613,0,0,0,11.8,11.8);
 
 	this.instance_2 = new lib.sb_star("synched",0);
-	this.instance_2.setTransform(323,198.6,0.1613,0.1613,0,0,0,11.8,11.8);
+	this.instance_2.setTransform(399.95,219.45,0.1613,0.1613,0,0,0,11.8,11.8);
 
 	this.instance_3 = new lib.sb_star("synched",0);
-	this.instance_3.setTransform(334.4,176.1,0.1613,0.1613,0,0,0,11.8,11.8);
+	this.instance_3.setTransform(323,198.6,0.1613,0.1613,0,0,0,11.8,11.8);
 
 	this.instance_4 = new lib.sb_star("synched",0);
-	this.instance_4.setTransform(330.05,179.9,0.1613,0.1613,0,0,0,11.8,11.8);
+	this.instance_4.setTransform(334.4,176.1,0.1613,0.1613,0,0,0,11.8,11.8);
 
 	this.instance_5 = new lib.sb_star("synched",0);
-	this.instance_5.setTransform(383.2,79.35,0.1613,0.1613,0,0,0,11.8,11.8);
+	this.instance_5.setTransform(330.05,179.9,0.1613,0.1613,0,0,0,11.8,11.8);
 
 	this.instance_6 = new lib.sb_star("synched",0);
-	this.instance_6.setTransform(372.45,95.1,0.1613,0.1613,0,0,0,11.8,11.8);
+	this.instance_6.setTransform(383.2,79.35,0.1613,0.1613,0,0,0,11.8,11.8);
 
 	this.instance_7 = new lib.sb_star("synched",0);
-	this.instance_7.setTransform(278.35,80.35,0.1159,0.1159,0,0,0,11.7,11.7);
+	this.instance_7.setTransform(372.45,95.1,0.1613,0.1613,0,0,0,11.8,11.8);
 
 	this.instance_8 = new lib.sb_star("synched",0);
-	this.instance_8.setTransform(318.15,131.2,0.1159,0.1159,0,0,0,11.7,11.7);
+	this.instance_8.setTransform(278.35,80.35,0.1159,0.1159,0,0,0,11.7,11.7);
 
 	this.instance_9 = new lib.sb_star("synched",0);
-	this.instance_9.setTransform(274.5,137.75,0.1159,0.1159,0,0,0,11.7,11.7);
+	this.instance_9.setTransform(318.15,131.2,0.1159,0.1159,0,0,0,11.7,11.7);
 
 	this.instance_10 = new lib.sb_star("synched",0);
-	this.instance_10.setTransform(149.85,137.75,0.1159,0.1159,0,0,0,11.7,11.7);
+	this.instance_10.setTransform(274.5,137.75,0.1159,0.1159,0,0,0,11.7,11.7);
 
 	this.instance_11 = new lib.sb_star("synched",0);
-	this.instance_11.setTransform(159.4,165.55,0.1159,0.1159,0,0,0,11.7,11.7);
+	this.instance_11.setTransform(79.4,237.55,0.1159,0.1159,0,0,0,11.7,11.7);
 
 	this.instance_12 = new lib.sb_star("synched",0);
 	this.instance_12.setTransform(298.8,286.55,0.1159,0.1159,0,0,0,11.7,11.7);
 
 	this.instance_13 = new lib.sb_star("synched",0);
-	this.instance_13.setTransform(118.2,163.4,0.1159,0.1159,0,0,0,11.7,11.7);
+	this.instance_13.setTransform(523.15,83.15,0.1159,0.1159,0,0,0,11.7,11.7);
 
 	this.instance_14 = new lib.sb_star("synched",0);
-	this.instance_14.setTransform(114.05,189.55,0.1159,0.1159,0,0,0,11.7,11.7);
+	this.instance_14.setTransform(20.05,191.15,0.1159,0.1159,0,0,0,11.7,11.7);
 
 	this.instance_15 = new lib.sb_star("synched",0);
 	this.instance_15.setTransform(278.9,210.1,0.1613,0.1613,0,0,0,11.8,11.8);
 
 	this.instance_16 = new lib.sb_star("synched",0);
-	this.instance_16.setTransform(138.75,109.75,0.1613,0.1613,0,0,0,11.8,11.8);
+	this.instance_16.setTransform(214.75,76.8,0.1613,0.1613,0,0,0,11.8,11.8);
 
 	this.instance_17 = new lib.sb_star("synched",0);
-	this.instance_17.setTransform(214.75,76.8,0.1613,0.1613,0,0,0,11.8,11.8);
+	this.instance_17.setTransform(435.3,184.8,0.1613,0.1613,0,0,0,11.8,11.8);
 
 	this.instance_18 = new lib.sb_star("synched",0);
-	this.instance_18.setTransform(435.3,184.8,0.1613,0.1613,0,0,0,11.8,11.8);
+	this.instance_18.setTransform(338.9,153.3,0.1613,0.1613,0,0,0,11.8,11.8);
 
 	this.instance_19 = new lib.sb_star("synched",0);
-	this.instance_19.setTransform(338.9,153.3,0.1613,0.1613,0,0,0,11.8,11.8);
+	this.instance_19.setTransform(559.25,238,0.4424,0.4424,24.5398,0,0,12.5,12.1);
 
 	this.instance_20 = new lib.sb_star("synched",0);
-	this.instance_20.setTransform(559.25,238,0.4424,0.4424,24.5388,0,0,12.5,12.1);
+	this.instance_20.setTransform(542.85,180.95,0.4424,0.4424,24.5398,0,0,12.5,12.1);
 
 	this.instance_21 = new lib.sb_star("synched",0);
-	this.instance_21.setTransform(542.85,180.95,0.4424,0.4424,24.5388,0,0,12.5,12.1);
+	this.instance_21.setTransform(429.2,133.75,0.4424,0.4424,24.5398,0,0,12.5,12.1);
 
 	this.instance_22 = new lib.sb_star("synched",0);
-	this.instance_22.setTransform(429.2,133.75,0.4424,0.4424,24.5388,0,0,12.5,12.1);
+	this.instance_22.setTransform(228,264.5,0.1159,0.1159,0,0,0,11.7,11.7);
 
 	this.instance_23 = new lib.sb_star("synched",0);
-	this.instance_23.setTransform(188.65,101.6,0.4424,0.4424,24.5398,0,0,12.5,12.1);
+	this.instance_23.setTransform(138.8,261.1,0.1159,0.1159,0,0,0,11.7,11.7);
 
 	this.instance_24 = new lib.sb_star("synched",0);
-	this.instance_24.setTransform(228,264.5,0.1159,0.1159,0,0,0,11.7,11.7);
+	this.instance_24.setTransform(216.75,203.65,0.1159,0.1159,0,0,0,11.7,11.7);
 
 	this.instance_25 = new lib.sb_star("synched",0);
-	this.instance_25.setTransform(138.8,261.1,0.1159,0.1159,0,0,0,11.7,11.7);
+	this.instance_25.setTransform(263.25,216.6,0.1613,0.1613,0,0,0,11.8,11.8);
 
-	this.instance_26 = new lib.sb_star("synched",0);
-	this.instance_26.setTransform(216.75,203.65,0.1159,0.1159,0,0,0,11.7,11.7);
-
-	this.instance_27 = new lib.sb_star("synched",0);
-	this.instance_27.setTransform(263.25,216.6,0.1613,0.1613,0,0,0,11.8,11.8);
-
-	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_27},{t:this.instance_26},{t:this.instance_25},{t:this.instance_24},{t:this.instance_23},{t:this.instance_22},{t:this.instance_21},{t:this.instance_20},{t:this.instance_19},{t:this.instance_18},{t:this.instance_17},{t:this.instance_16},{t:this.instance_15},{t:this.instance_14},{t:this.instance_13},{t:this.instance_12},{t:this.instance_11},{t:this.instance_10},{t:this.instance_9},{t:this.instance_8},{t:this.instance_7},{t:this.instance_6},{t:this.instance_5},{t:this.instance_4},{t:this.instance_3},{t:this.instance_2},{t:this.instance_1},{t:this.instance}]}).wait(1));
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_25},{t:this.instance_24},{t:this.instance_23},{t:this.instance_22},{t:this.instance_21},{t:this.instance_20},{t:this.instance_19},{t:this.instance_18},{t:this.instance_17},{t:this.instance_16},{t:this.instance_15},{t:this.instance_14},{t:this.instance_13},{t:this.instance_12},{t:this.instance_11},{t:this.instance_10},{t:this.instance_9},{t:this.instance_8},{t:this.instance_7},{t:this.instance_6},{t:this.instance_5},{t:this.instance_4},{t:this.instance_3},{t:this.instance_2},{t:this.instance_1},{t:this.instance}]}).wait(1));
 
 	// sc1_bg
-	this.instance_28 = new lib.sc1bg();
-	this.instance_28.setTransform(0,0,0.9994,0.9995);
+	this.instance_26 = new lib.sc1bg();
+	this.instance_26.setTransform(0,0,0.9994,0.9995);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_28).wait(1));
+	this.timeline.addTween(cjs.Tween.get(this.instance_26).wait(1));
 
 	this._renderFirstFrame();
 
@@ -3102,13 +3096,13 @@ if (reversed == null) { reversed = false; }
 	props.reversed = reversed;
 	cjs.MovieClip.apply(this,[props]);
 
-	// sb_sc1-bg-front
+	// sb_sc1_bg_front
 	this.instance = new lib.sb_sc1bgfront("synched",0);
 	this.instance.setTransform(291.65,534.45,1,1,0,0,0,461.2,85);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).to({x:303.9,startPosition:23},89).wait(31));
 
-	// sb_sc1-bg
+	// sb_sc1_bg
 	this.instance_1 = new lib.sb_sc1bg("synched",0);
 	this.instance_1.setTransform(339.05,278.9,1,1,0,0,0,315.8,278.9);
 
