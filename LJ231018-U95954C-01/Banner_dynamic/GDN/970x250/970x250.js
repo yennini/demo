@@ -2074,7 +2074,7 @@ if (reversed == null) { reversed = false; }
 
 	// logo
 	this.instance = new lib.logo();
-	this.instance.setTransform(-42,74,0.5877,0.5877);
+	this.instance.setTransform(-42,74,0.5877,0.5876);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(414));
 
