@@ -1658,15 +1658,15 @@ if (reversed == null) { reversed = false; }
 
 	// sb_sc1_car
 	this.instance = new lib.sb_sc1car("synched",0);
-	this.instance.setTransform(255.4,186.15,0.7856,0.7856,0,0,0,225.1,162.6);
+	this.instance.setTransform(255.45,186.2,0.7856,0.7856,-6.4887,0,0,225.2,162.7);
 	this.instance.alpha = 0;
 
-	this.timeline.addTween(cjs.Tween.get(this.instance).to({regX:225,regY:162.5,scaleX:1,scaleY:1,x:255.3,y:208.1,alpha:1},8,cjs.Ease.cubicOut).to({startPosition:0},7,cjs.Ease.cubicOut).to({rotation:-17.1924,x:255.4,y:208.15},7,cjs.Ease.cubicOut).wait(12));
+	this.timeline.addTween(cjs.Tween.get(this.instance).to({regX:225,regY:162.5,scaleX:1,scaleY:1,rotation:-17.1924,x:255.4,y:208.15,alpha:1},17,cjs.Ease.cubicOut).wait(17));
 
 	this._renderFirstFrame();
 
 }).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(-7.6,-13.6,526.1,444);
+p.nominalBounds = new cjs.Rectangle(-7.7,-13.7,526.2,444.09999999999997);
 
 
 (lib.an_sc5bg = function(mode,startPosition,loop,reversed) {
@@ -1759,7 +1759,7 @@ if (reversed == null) { reversed = false; }
 		maskedShapeInstanceList[shapedInstanceItr].mask = mask;
 	}
 
-	this.timeline.addTween(cjs.Tween.get(this.instance).to({regX:344.5,x:344.5,y:319.2,alpha:1},3).to({regX:344.6,x:344.6,y:319.25},11).to({regX:344.5,regY:287.5,rotation:0,x:344.5},8,cjs.Ease.cubicOut).wait(1));
+	this.timeline.addTween(cjs.Tween.get(this.instance).to({rotation:5.8091,y:319.3,alpha:1},3).to({regX:344.5,regY:287.5,rotation:0,x:344.5,y:319.25},10).wait(10));
 
 	this._renderFirstFrame();
 
