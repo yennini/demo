@@ -3500,7 +3500,7 @@ if (reversed == null) { reversed = false; }
 
 	// an_sc4_t_boseeee
 	this.instance_1 = new lib.an_sc4tboseeee("synched",0,false);
-	this.instance_1.setTransform(1566.75,378.95,3.2466,3.2466,0,0,0,422.7,15.7);
+	this.instance_1.setTransform(1769.55,371.85,3.7264,3.7264,0,0,0,422.7,15.7);
 	this.instance_1._off = true;
 
 	this.timeline.addTween(cjs.Tween.get(this.instance_1).wait(14).to({_off:false},0).wait(81));
@@ -3599,7 +3599,7 @@ if (reversed == null) { reversed = false; }
 	this._renderFirstFrame();
 
 }).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(-3438.5,-130.1,6648.8,837.6);
+p.nominalBounds = new cjs.Rectangle(-3438.4,-130.1,6648.700000000001,837.6);
 
 
 (lib.scc2 = function(mode,startPosition,loop,reversed) {
@@ -3722,42 +3722,42 @@ if (reversed == null) { reversed = false; }
 
 	// an_sc5_plus
 	this.instance_1 = new lib.an_sc5plus("synched",0,false);
-	this.instance_1.setTransform(135.1,425.5,2.8099,2.8099,0,0,0,15,15);
+	this.instance_1.setTransform(511.9,436,3.8029,3.8029,0,0,0,15.1,15.1);
 	this.instance_1._off = true;
 
 	this.timeline.addTween(cjs.Tween.get(this.instance_1).wait(17).to({_off:false},0).wait(73).to({startPosition:8},0).to({_off:true},1).wait(67));
 
 	// an_sc5_t_ccc
 	this.instance_2 = new lib.an_sc5tccc("synched",0,false);
-	this.instance_2.setTransform(460.3,424.2,2.8099,2.8099,0,0,0,110.4,25.4);
+	this.instance_2.setTransform(952.05,433.95,3.8029,3.8029,0,0,0,110.5,25.4);
 	this.instance_2._off = true;
 
 	this.timeline.addTween(cjs.Tween.get(this.instance_2).wait(18).to({_off:false},0).wait(72).to({startPosition:8},0).to({_off:true},1).wait(67));
 
 	// an_sc5_plus_copy
 	this.instance_3 = new lib.an_sc5plus("synched",0,false);
-	this.instance_3.setTransform(-594,429,2.8099,2.8099,0,0,0,14.8,15);
+	this.instance_3.setTransform(-475,440.35,3.8029,3.8029,0,0,0,14.8,15);
 	this.instance_3._off = true;
 
 	this.timeline.addTween(cjs.Tween.get(this.instance_3).wait(13).to({_off:false},0).wait(77).to({startPosition:8},0).to({_off:true},1).wait(67));
 
 	// an_sc5_t_80
 	this.instance_4 = new lib.an_sc5t80("synched",0,false);
-	this.instance_4.setTransform(-231.3,427.7,2.8099,2.8099,0,0,0,125.2,25.2);
+	this.instance_4.setTransform(15.85,438.65,3.8029,3.8029,0,0,0,125.2,25.2);
 	this.instance_4._off = true;
 
 	this.timeline.addTween(cjs.Tween.get(this.instance_4).wait(14).to({_off:false},0).wait(76).to({startPosition:8},0).to({_off:true},1).wait(67));
 
 	// an_sc5_t_4w
 	this.instance_5 = new lib.an_sc5t4w("synched",0,false);
-	this.instance_5.setTransform(-965.75,427.25,2.8099,2.8099,0,0,0,131.1,25.2);
+	this.instance_5.setTransform(-978.25,438,3.8029,3.8029,0,0,0,131.1,25.2);
 	this.instance_5._off = true;
 
 	this.timeline.addTween(cjs.Tween.get(this.instance_5).wait(9).to({_off:false},0).wait(81).to({startPosition:8},0).to({_off:true},1).wait(67));
 
 	// an_sc5_t_altima
 	this.instance_6 = new lib.an_sc5taltima("synched",0,false);
-	this.instance_6.setTransform(-257.3,194.6,4.3415,4.3415,0,0,0,159,29.8);
+	this.instance_6.setTransform(-25.1,181.4,4.7896,4.7896,0,0,0,159,29.9);
 	this.instance_6._off = true;
 
 	this.timeline.addTween(cjs.Tween.get(this.instance_6).wait(4).to({_off:false},0).wait(86).to({startPosition:8},0).to({_off:true},1).wait(67));
@@ -3777,7 +3777,7 @@ if (reversed == null) { reversed = false; }
 	this._renderFirstFrame();
 
 }).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(-1334.1,-582,4193.6,1756.2);
+p.nominalBounds = new cjs.Rectangle(-1476.8,-582,4336.3,1756.2);
 
 
 (lib.wrap = function(mode,startPosition,loop,reversed) {
