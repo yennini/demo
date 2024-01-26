@@ -2778,15 +2778,15 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/bg.png", id:"bg"},
+		{src:"images/bg.jpg", id:"bg"},
 		{src:"images/car1.png", id:"car1"},
 		{src:"images/sc1deco1.png", id:"sc1deco1"},
 		{src:"images/sc1deco2.png", id:"sc1deco2"},
 		{src:"images/sc1deco3.png", id:"sc1deco3"},
 		{src:"images/sc1deco4.png", id:"sc1deco4"},
-		{src:"images/sc2bg.png", id:"sc2bg"},
-		{src:"images/sc3bg.png", id:"sc3bg"},
-		{src:"images/sc4bg.png", id:"sc4bg"}
+		{src:"images/sc2bg.jpg", id:"sc2bg"},
+		{src:"images/sc3bg.jpg", id:"sc3bg"},
+		{src:"images/sc4bg.jpg", id:"sc4bg"}
 	],
 	preloads: []
 };
