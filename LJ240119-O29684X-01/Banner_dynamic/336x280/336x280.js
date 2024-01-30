@@ -52,13 +52,13 @@ p.nominalBounds = new cjs.Rectangle(0,0,400,136);
 (lib.car2 = function() {
 	this.initialize(img.car2);
 }).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,400,110);
+p.nominalBounds = new cjs.Rectangle(0,0,300,83);
 
 
 (lib.car3 = function() {
 	this.initialize(img.car3);
 }).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,300,216);
+p.nominalBounds = new cjs.Rectangle(0,0,200,144);
 
 
 (lib.wheel = function() {
@@ -369,14 +369,14 @@ if (reversed == null) { reversed = false; }
 
 	// car3
 	this.instance = new lib.car3();
-	this.instance.setTransform(0,0,1.2841,1.2844);
+	this.instance.setTransform(0,0,1.9258,1.9267);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(435).to({_off:true},1).wait(14));
 
 	this._renderFirstFrame();
 
 }).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(0,0,385.2,277.4);
+p.nominalBounds = new cjs.Rectangle(0,0,385.2,277.5);
 
 
 (lib.mo_sc3dragon = function(mode,startPosition,loop,reversed) {
@@ -1177,7 +1177,7 @@ if (reversed == null) { reversed = false; }
 	this._renderFirstFrame();
 
 }).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(0,0,385.3,277.5);
+p.nominalBounds = new cjs.Rectangle(0,0,385.2,277.5);
 
 
 (lib.sb_sc22t239 = function(mode,startPosition,loop,reversed) {
@@ -1303,7 +1303,7 @@ if (reversed == null) { reversed = false; }
 
 	// _Image_
 	this.instance_2 = new lib.car2();
-	this.instance_2.setTransform(0,0,1.8087,1.8086);
+	this.instance_2.setTransform(0,0,2.4117,2.4116);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance_2).wait(14).to({_off:true},1).wait(134));
 
