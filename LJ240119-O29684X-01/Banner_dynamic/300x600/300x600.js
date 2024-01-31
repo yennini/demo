@@ -1223,14 +1223,14 @@ if (reversed == null) { reversed = false; }
 	// mo_sc22_t_239
 	this.instance = new lib.mo_sc22t239();
 	this.instance.setTransform(109.1,36.3,1,1,0,0,0,109.1,36.3);
-	this.instance.shadow = new cjs.Shadow("rgba(200,129,86,1)",1,1,11);
+	this.instance.shadow = new cjs.Shadow("rgba(142,70,48,1)",1,1,10);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
 
 	this._renderFirstFrame();
 
 }).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(-11,-11,246,100);
+p.nominalBounds = new cjs.Rectangle(-14,-14,252,106);
 
 
 (lib.sb_sc2welcome = function(mode,startPosition,loop,reversed) {
@@ -1272,14 +1272,14 @@ if (reversed == null) { reversed = false; }
 	// mo_sc2_t_3369
 	this.instance = new lib.mo_sc2t3369();
 	this.instance.setTransform(102.8,27.7,1,1,0,0,0,102.8,27.7);
-	this.instance.shadow = new cjs.Shadow("rgba(200,129,86,1)",1,1,11);
+	this.instance.shadow = new cjs.Shadow("rgba(142,70,48,1)",1,1,10);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
 
 	this._renderFirstFrame();
 
 }).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(-11,-11,233,83);
+p.nominalBounds = new cjs.Rectangle(-14,-14,239,89);
 
 
 (lib.sb_sc2spring = function(mode,startPosition,loop,reversed) {
@@ -1411,7 +1411,7 @@ if (reversed == null) { reversed = false; }
 	this._renderFirstFrame();
 
 }).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(-11,-11,531.2,83);
+p.nominalBounds = new cjs.Rectangle(-14,-14,537.2,89);
 
 
 (lib.an_sc2t239 = function(mode,startPosition,loop,reversed) {
@@ -1435,7 +1435,7 @@ if (reversed == null) { reversed = false; }
 	this._renderFirstFrame();
 
 }).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(-11,-11,607.4,106.9);
+p.nominalBounds = new cjs.Rectangle(-14,-14,613.4,112.9);
 
 
 (lib.an_sc2spring = function(mode,startPosition,loop,reversed) {
