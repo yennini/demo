@@ -2548,7 +2548,7 @@ if (reversed == null) { reversed = false; }
 
 	// an_btn
 	this.instance = new lib.an_btn("synched",0,false);
-	this.instance.setTransform(458.05,483.5,1,1,0,0,0,163.5,36.5);
+	this.instance.setTransform(486.8,487.1,0.8013,0.8013,0,0,0,163.6,36.6);
 	this.instance._off = true;
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(19).to({_off:false},0).wait(41));
@@ -2574,7 +2574,7 @@ if (reversed == null) { reversed = false; }
 	this._renderFirstFrame();
 
 }).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(-481,-36.1,1412.1,580.1);
+p.nominalBounds = new cjs.Rectangle(-481,-36.1,1351.3,580.1);
 
 
 (lib.wrap = function(mode,startPosition,loop,reversed) {
