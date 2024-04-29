@@ -1789,19 +1789,19 @@ if (reversed == null) { reversed = false; }
 
 	// an_sc1_title
 	this.instance_1 = new lib.an_sc1title("synched",0,false);
-	this.instance_1.setTransform(398.5,96.2,1.0676,1.0676,0,0,0,137.6,52.4);
+	this.instance_1.setTransform(422.05,91.1,1.0676,1.0676,0,0,0,137.6,52.4);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance_1).wait(60));
 
 	// an_car1
 	this.instance_2 = new lib.an_car1("synched",0,false);
-	this.instance_2.setTransform(-20.5,396.2,0.9344,0.9344,0,0,0,515.9,181.6);
+	this.instance_2.setTransform(-30.7,396.2,0.9344,0.9344,0,0,0,515.9,181.6);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance_2).wait(60));
 
 	// an_sc1_sub
 	this.instance_3 = new lib.an_sc1sub("synched",0,false);
-	this.instance_3.setTransform(409,217.15,1.0654,1.0654,0,0,0,134.7,15.7);
+	this.instance_3.setTransform(441.85,213.1,1.02,1.02,0,0,0,134.8,15.8);
 	this.instance_3._off = true;
 
 	this.timeline.addTween(cjs.Tween.get(this.instance_3).wait(25).to({_off:false},0).wait(35));
@@ -1815,7 +1815,7 @@ if (reversed == null) { reversed = false; }
 	this._renderFirstFrame();
 
 }).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(-502.5,-9,1537.3,574.7);
+p.nominalBounds = new cjs.Rectangle(-512.7,-9,1547.5,574.7);
 
 
 (lib.wrap = function(mode,startPosition,loop,reversed) {
