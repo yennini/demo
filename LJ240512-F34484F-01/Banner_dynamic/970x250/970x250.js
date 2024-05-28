@@ -2454,7 +2454,7 @@ if (reversed == null) { reversed = false; }
 	// Layer_3
 	this.shape_59 = new cjs.Shape();
 	this.shape_59.graphics.lf(["#000000","rgba(0,0,0,0)"],[0,1],-146.1,0,146.1,0).s().p("EgW0ApIMAAAhSQMAtpAAAMAAABSQg");
-	this.shape_59.setTransform(979.0614,850.8908,0.6112,1.5961,180);
+	this.shape_59.setTransform(981.6614,850.8908,0.6112,1.5961,180);
 
 	this.shape_60 = new cjs.Shape();
 	this.shape_60.graphics.lf(["#000000","rgba(0,0,0,0)"],[0,1],-146.1,0,146.1,0).s().p("EgW0ApIMAAAhSQMAtpAAAMAAABSQg");
@@ -3026,7 +3026,7 @@ if (reversed == null) { reversed = false; }
 	this._renderFirstFrame();
 
 }).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(0,0,199.4,25.9);
+p.nominalBounds = new cjs.Rectangle(0.1,0,199.4,25.9);
 
 
 (lib.an_foot_tt_low = function(mode,startPosition,loop,reversed) {
@@ -3410,7 +3410,7 @@ if (reversed == null) { reversed = false; }
 
 	// an_foot_tt_23400
 	this.instance = new lib.an_foot_tt_23400("synched",0,false);
-	this.instance.setTransform(344.4,67.85,1,1,0,0,0,47.1,5.9);
+	this.instance.setTransform(332.9,71.9,1.246,1.246,0,0,0,47.1,5.9);
 	this.instance._off = true;
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(5).to({_off:false},0).wait(102).to({startPosition:35},0).to({_off:true},1).wait(2));
@@ -3450,7 +3450,7 @@ if (reversed == null) { reversed = false; }
 	this._renderFirstFrame();
 
 }).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(0,-4.4,404.1,78.10000000000001);
+p.nominalBounds = new cjs.Rectangle(0,-4.4,404.1,83.60000000000001);
 
 
 (lib.sc3 = function(mode,startPosition,loop,reversed) {
