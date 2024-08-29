@@ -34,7 +34,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,1940,500);
 (lib.kicks = function() {
 	this.initialize(img.kicks);
 }).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,1000,590);
+p.nominalBounds = new cjs.Rectangle(0,0,800,472);
 
 
 (lib.sc2car = function() {
@@ -52,7 +52,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,451,330);
 (lib.sentra = function() {
 	this.initialize(img.sentra);
 }).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,1000,484);// helper functions:
+p.nominalBounds = new cjs.Rectangle(0,0,800,387);// helper functions:
 
 function mc_symbol_clone() {
 	var clone = this._cloneProps(new this.constructor(this.mode, this.startPosition, this.loop, this.reversed));
@@ -813,6 +813,7 @@ if (reversed == null) { reversed = false; }
 
 	// Layer_2
 	this.instance = new lib.kicks();
+	this.instance.setTransform(0,0,1.25,1.25);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(90));
 
@@ -835,13 +836,14 @@ if (reversed == null) { reversed = false; }
 
 	// sentra_png
 	this.instance = new lib.sentra();
+	this.instance.setTransform(0,0,1.25,1.25);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(90));
 
 	this._renderFirstFrame();
 
 }).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(0,0,1000,484);
+p.nominalBounds = new cjs.Rectangle(0,0,1000,483.8);
 
 
 (lib.sb_sc14w = function(mode,startPosition,loop,reversed) {
