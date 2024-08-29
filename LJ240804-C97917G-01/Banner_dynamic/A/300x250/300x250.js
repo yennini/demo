@@ -1765,21 +1765,21 @@ if (reversed == null) { reversed = false; }
 
 	// Layer_2
 	this.shape = new cjs.Shape();
-	this.shape.graphics.lf(["#2A294B","rgba(45,44,79,0.906)","rgba(54,52,92,0.639)","rgba(69,66,113,0.196)","rgba(75,72,122,0)"],[0,0.275,0.576,0.886,1],0,-63.4,0,63.4).s().p("A4jJ5IAAzyMAxHAAAIAATyg");
+	this.shape.graphics.lf(["#2A294B","rgba(45,44,79,0.906)","rgba(54,52,92,0.639)","rgba(69,66,113,0.196)","rgba(75,72,122,0)"],[0,0.275,0.576,0.886,1],0,-63.4,0,63.4).s().p("A4jJ5IAAzxMAxHAAAIAATxg");
 	this.shape.setTransform(150,58);
 
 	this.timeline.addTween(cjs.Tween.get(this.shape).wait(84).to({_off:true},1).wait(5));
 
 	// sc1bg
 	this.instance_3 = new lib.sc1bg();
-	this.instance_3.setTransform(-77,-12,0.4721,0.472);
+	this.instance_3.setTransform(-62,-8,0.4605,0.4604);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance_3).wait(84).to({_off:true},1).wait(5));
 
 	this._renderFirstFrame();
 
 }).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(-77,-19.3,472.1,322.1);
+p.nominalBounds = new cjs.Rectangle(-62,-19.3,460.5,318.40000000000003);
 
 
 (lib.wrap = function(mode,startPosition,loop,reversed) {
