@@ -2689,7 +2689,7 @@ if (reversed == null) { reversed = false; }
 	// Layer_12
 	this.shape_21 = new cjs.Shape();
 	this.shape_21.graphics.lf(["rgba(60,117,220,0)","#70A6F0"],[0,1],-130.8,0,130.9,0).s().p("A0bfSMAAAg+jMAo3AAAMAAAA+jg");
-	this.shape_21.setTransform(613.325,232.3222,1,1.08,180);
+	this.shape_21.setTransform(612.4039,232.6826,1.0069,1.0818,180);
 
 	this.shape_22 = new cjs.Shape();
 	this.shape_22.graphics.lf(["#3C75DC","#70A6F0"],[0.302,1],-241.2,0,209.3,0).s().p("EgD2Ah1Qm5ABmSirQmEikksksQkskrikmGQirmSAAm4QAAm4CrmSQCkmEEsksQEsksGEikQGSirG5AAMApiAAAMAAABDqg");
